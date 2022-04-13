@@ -15,6 +15,7 @@ function Navbar() {
         </NavLink>
         <NavLink to="/paginated">Paginated</NavLink>
         <NavLink to="/infinite">Infinite</NavLink>
+        <NavLink to="/myquery">MyQuery</NavLink>
       </div>
     </nav>
   )

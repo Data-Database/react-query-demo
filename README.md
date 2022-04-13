@@ -1,3 +1,11 @@
+# Tutorial
+
+https://www.sitepoint.com/react-query-fetch-manage-data/
+
+# Github Repo
+
+https://github.com/Data-Database/react-query-demo
+
 # React Query Example
 
 This project is a demonstration of how to use [React Query](https://react-query.tanstack.com) library to perform the following frontend API requests:

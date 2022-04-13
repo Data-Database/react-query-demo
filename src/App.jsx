@@ -8,6 +8,7 @@ import { AppContextProvider } from './store/app-context'
 import Navbar from './layout/Navbar'
 import BasicQuery from './views/BasicQuery'
 import InfiniteQuery from './views/InfiniteQuery'
+import MyQuery from './views/MyQuery'
 import PaginatedQuery from './views/PaginatedQuery'
 import CreateUser from './views/CreateUser'
 import EditUser from './views/EditUser'
@@ -33,6 +34,9 @@ function App() {
               </Route>
               <Route path="/infinite">
                 <InfiniteQuery />
+              </Route>
+              <Route path="/myquery">
+                <MyQuery />
               </Route>
               <Route path="/user/create">
                 <CreateUser />
